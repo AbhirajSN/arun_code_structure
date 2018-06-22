@@ -1,0 +1,29 @@
+{
+  "name": "serious",
+  "version": "1.0.0",
+  "description": "serious application ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^2.0.1",
+    "body-parser": "^1.18.2",
+    "chalk": "^2.3.0",
+    "csvtojson": "^1.1.9",
+    "dateformat": "^3.0.2",
+    "express": "^4.16.2",
+    "express-validator": "^4.3.0",
+    "figlet": "^1.2.0",
+    "fs": "0.0.1-security",
+    "mongoose": "^4.12.5",
+    "mongoose-timestamp": "^0.6.0",
+    "multer": "^1.3.0",
+    "path": "^0.12.7",
+    "redis": "^2.8.0",
+    "request": "^2.83.0",
+    "underscore": "^1.8.3"
+  }
+}
